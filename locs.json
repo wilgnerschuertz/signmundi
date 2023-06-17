@@ -1,0 +1,93 @@
+[
+  {
+    "country": "Brasil",
+    "latitude": -8.559991855828034,
+    "longitude": -57.14463231307835,
+    "youtube_id": "voz96wS5Pdk",
+    "iconUrl": "https://www.signbank.org/signpuddle2.0/glyphogram.php?font=png1&size=2&back=-1&pad=1&bound=c&ksw=AS14710S29a04M8x33S29a04n7xn2S14710n9xn34"
+  },
+  {
+    "country": "Venezuela",
+    "latitude": 6.982757573205896,
+    "longitude": -66.23257554311675,
+    "youtube_id": "hKziskFJdxc",
+    "iconUrl": "https://www.signbank.org/signpuddle2.0/glyphogram.php?font=png1&size=2&back=-1&bound=c&ksw=M9x32S10e20n6xn31S24804n8x4"
+  },
+  {
+    "country": "Colombia",
+    "latitude": 3.537533656225387,
+    "longitude": -72.70466326845616,
+    "youtube_id": "FZayF09RlgI",
+    "iconUrl": "https://www.signbank.org/signpuddle2.0/glyphogram.php?font=png1&size=2&back=-1&bound=t&ksw=M10x28S2e230n9xn4S16d10n8xn27"
+  },
+  {
+    "country": "Equador",
+    "latitude": -1.714527269166025,
+    "longitude": -78.34370999944494,
+    "youtube_id": "fi3mUXyl9Qc",
+    "iconUrl": "https://www.signbank.org/signpuddle2.0/glyphogram.php?font=png1&size=2&back=-1&bound=t&ksw=M25x23S10042n5x8S20e00n2xn4S14a20n4xn23S26502n24xn19"
+  },
+  {
+    "country": "Peru",
+    "latitude": -11.128006985119917,
+    "longitude": -76.16498739883565,
+    "youtube_id": "GNjcpxngnOA",
+    "iconUrl": "https://www.signbank.org/signpuddle2.0/glyphogram.php?font=png1&size=2&back=-1&bound=c&ksw=M52x30S33100n18xn17S1d44218xn19S2360013x13"
+  },
+  {
+    "country": "Bolivia",
+    "latitude": -16.96853261569808,
+    "longitude": -64.88689393685807,
+    "youtube_id": "FBMGqGwGkuQ",
+    "iconUrl": "https://www.signbank.org/signpuddle2.0/glyphogram.php?font=png1&size=2&back=-1&bound=t&ksw=M15x31S1a310n14xn31S2e230n4xn1"
+  },
+  {
+    "country": "Paraguai",
+    "latitude": -23.458532973506305,
+    "longitude": -58.35072613503015,
+    "youtube_id": "derEuEDRfOg",
+    "iconUrl": "https://www.signbank.org/signpuddle2.0/glyphogram.php?font=png1&size=2&back=-1&bound=t&ksw=M16x25S14011n15xn25S26d04n12x6"
+  },
+  {
+    "country": "Chile",
+    "latitude": -26.593426745280738,
+    "longitude": -70.39778051486985,
+    "youtube_id": "TyrnWQ6zNEU",
+    "iconUrl": "https://www.signbank.org/signpuddle2.0/glyphogram.php?font=png1&size=2&back=-1&bound=t&ksw=M55x47S1001014xn46S10018n28xn44S2e210n50xn13S2e20032xn15S2310029x30S23110n54x29"
+  },
+  {
+    "country": "Argentina",
+    "latitude": -34.84451409144751,
+    "longitude": -66.29665561960526,
+    "youtube_id": "aVBDg5EMhdY",
+    "iconUrl": "https://www.signbank.org/signpuddle2.0/glyphogram.php?font=png1&size=2&back=-1&bound=t&ksw=M12x29S1ea10n12xn29S2e230n7xn3"
+  },
+  {
+    "country": "Uruguai",
+    "latitude": -33.03715683977808,
+    "longitude": -56.30016368739787,
+    "youtube_id": "hqm5lrGKr5c",
+    "iconUrl": "https://www.signbank.org/signpuddle2.0/glyphogram.php?font=png1&size=2&back=-1&bound=t&ksw=M10x35S11510n7xn34S2e230n9x3"
+  },
+  {
+    "country": "Guiana",
+    "latitude": 4.884155116906344,
+    "longitude": -59.34302514892192,
+    "youtube_id": "I4sui7RnLHU",
+    "iconUrl": "https://www.signbank.org/signpuddle2.0/glyphogram.php?font=png1&size=2&back=-1&bound=t&ksw=M25x27S15a42n7x4S1ef35n5xn26S2d502n25xn8S20500n4x16"
+  },
+  {
+    "country": "Suriname",
+    "latitude": 4.078848617505328,
+    "longitude": -55.896484884783014,
+    "youtube_id": "d5vhjeLXMV4",
+    "iconUrl": "https://www.signbank.org/signpuddle2.0/glyphogram.php?font=png1&size=2&back=-1&bound=t&ksw=M22x72S2ff00n16xn72S15d01n4xn56S2e300n4xn36S2ff02n22x37S20500n6x29S11e20n6x0"
+  },
+  {
+    "country": "Guiana Francesa",
+    "latitude": 4.794721438407401,
+    "longitude": -52.7910085009495,
+    "youtube_id": "mgHHQBR2S4w",
+    "iconUrl": "https://www.signbank.org/signpuddle2.0/glyphogram.php?font=png1&size=2&back=-1&bound=t&ksw=M21x15S1d8104xn14S1df20n20xn15"
+  }
+]
